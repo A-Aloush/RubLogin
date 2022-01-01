@@ -5,5 +5,3 @@ This script could be configured in the task scheduler in such a way that it is s
 
 ### Configuration
 Edit the script, then enter your username and password as well as your IP address.
-
-\```python:RubLogin.py
